@@ -108,3 +108,21 @@ body {
     margin-left: 20px; /* Adjust spacing between text and image */
     box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.3);
 }
+
+.me-img {
+    width: 550px; /* Adjust the width as needed */
+    height: auto;
+    margin-left: 60px; /* Adjust spacing between text and image */
+    box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);
+}
+
+.text-content-2 {
+    flex: 1;
+    text-align: right;
+}
+
+.featured {
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
